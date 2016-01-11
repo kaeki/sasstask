@@ -7,3 +7,6 @@
 5. Use SCSS functions to make the gradients.
 6. Nest all the rules that can be nested
 7. Commit the finished task to your own GitHub account
+  * git remote set-url origin http://github.com/YOU/YOUR_REPO
+  * git add .
+  * git push
