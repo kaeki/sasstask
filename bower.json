@@ -1,0 +1,11 @@
+{
+  "name": "sass",
+  "private": true,
+  "dependencies": {
+    "reset-css": "~2.0.2011012602"
+  },
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4"
+  }
+}
